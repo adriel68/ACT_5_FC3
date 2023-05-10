@@ -1,6 +1,7 @@
 # ACT_5_FC3
 
 Desarrollar un programa que permita crear un grafo, (creado/introducido por el usuario), y que pregunte al usuario que tipo de recorrido hacer: anchura o profundidad. Es necesario solicitar el nodo origen.
+
 Ejemplo de grafo:
 Nodos: A,B,C,D,H,R,T
 Grafo:
